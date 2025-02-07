@@ -52,9 +52,9 @@
             <img src = "assets/languages.svg" />
         </a>
         <br>
-        <a>
+<!--         <a>
             <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ibtissam-laz&theme=radical&border_radius=7.5&hide_border=true" alt = "streaks"/>
-        </a>
+        </a> -->
     </div>
 </div>
 
