@@ -62,7 +62,7 @@
 
 <div align = "center">
     <h3>🔗Connect</h3>
-    <a href = "mailto:smilelily23@gmail.com">Email</a>
+    <a href = "mailto:smile.lily23@gmail.com">Email</a>
 </div>
 
 <!--
