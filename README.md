@@ -9,7 +9,7 @@
 
 ```sh
   > lifefetch
-    🦋 Name: Lily
+    🦋 Name: IBTISSAM
     🎓 Degree(s): Mathematics & Computer Science
     💻 Work: Full-Stack Web Developer
     📩 Email: smile.lily23@gmail.com
